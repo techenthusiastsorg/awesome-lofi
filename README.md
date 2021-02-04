@@ -12,3 +12,4 @@ We are looking for a player that will subscribe to a Slack channel and post auto
 
 - [Can't Take My Eyes off You by  Craymer & AIIVAWN](https://collegemusicrecords.bandcamp.com/track/cant-take-my-eyes-off-you) 
 - [I Fall in Love too Easily by Caleb Belkin](https://soundcloud.com/calebxbelkin/i-fall-in-love-too-easily-1)
+- [Fly Me to the Moon by YungRhythm](https://soundcloud.com/xrhythm/to-the-moon-and-back)
