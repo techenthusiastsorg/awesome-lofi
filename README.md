@@ -14,3 +14,9 @@ We are looking for a player that will subscribe to a Slack channel and post auto
 - [I Fall in Love too Easily by Caleb Belkin](https://soundcloud.com/calebxbelkin/i-fall-in-love-too-easily-1)
 - [Fly Me to the Moon by YungRhythm](https://soundcloud.com/xrhythm/to-the-moon-and-back)
 - [Leaving On A Jet plane by Wizerd](https://soundcloud.com/wizerd-464321214/leaving-on-a-jet-plane-lofi)
+
+## Playlists
+
+Already carefully selected and listed songs...
+
+- [Lofi Brasil Rádio Mix | 2 Horas de Lofi Hip Hop BR [brazil songs playlist]](https://www.youtube.com/watch?v=GH5v7oIL_jc)
