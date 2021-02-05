@@ -7,6 +7,7 @@ We are looking for a player that will subscribe to a Slack channel and post auto
 ## Motivation
 
 > People who show you new music are important.
+> Fall in love with music not with people.
 
 ## Oldies
 
