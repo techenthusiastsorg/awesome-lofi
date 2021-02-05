@@ -15,7 +15,6 @@ We are looking for a player that will subscribe to a Slack channel and post auto
 - [Fly Me to the Moon by YungRhythm](https://soundcloud.com/xrhythm/to-the-moon-and-back)
 - [Leaving On A Jet plane by Wizerd](https://soundcloud.com/wizerd-464321214/leaving-on-a-jet-plane-lofi)
 - [Erica Banzuelo (Cover) Build Me Up Buttercup (Gelo Lofi Remix)](https://soundcloud.com/djgeloremixofficial/erica-banzuelo-cover-build-me-up-buttercup-gelo-lofi-remix)
-- [Erica Banzuelo (Cover) Build Me Up Buttercup (Gelo Lofi Remix)](https://soundcloud.com/djgeloremixofficial/erica-banzuelo-cover-build-me-up-buttercup-gelo-lofi-remix)
 
 ## Playlists
 
