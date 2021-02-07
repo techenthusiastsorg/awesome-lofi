@@ -21,3 +21,9 @@ We are looking for a player that will subscribe to a Slack channel and post auto
 Already carefully selected and listed songs...
 
 - [Lofi Brasil Rádio Mix | 2 Horas de Lofi Hip Hop BR [brazil songs playlist]](https://www.youtube.com/watch?v=GH5v7oIL_jc)
+
+## Useful-bash
+
+```bash
+grep -oP '\(http.*\)' README.md| tr -d '()' | xargs youtube-dl
+```
