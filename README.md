@@ -26,5 +26,5 @@ Already carefully selected and listed songs...
 ## Useful-bash
 
 ```bash
-grep -oP '\(http.*\)' README.md| tr -d '()' | xargs youtube-dl
+grep -oP '\(http.*\)' README.md| tr -d '()' | xargs youtube-dl --extract-audio --audio-format mp3
 ```
