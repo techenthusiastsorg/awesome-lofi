@@ -21,6 +21,10 @@ We are looking for a player that will subscribe to a Slack channel and post auto
 - [beachside - E66S](https://soundcloud.com/e66s/beachside)
 - [Crush on You - Elijah Who](https://soundcloud.com/o-nei-ric-tapes/1-crush-on-you-elijah-who)
 
+## Lofi Love
+
+- [Coffee on the Beach - halberd](https://soundcloud.com/lilpolearm/coffee-on-the-beach)
+
 ## Playlists
 
 Already carefully selected and listed songs...
