@@ -19,6 +19,7 @@ We are looking for a player that will subscribe to a Slack channel and post auto
 - [Potsu - Just Friends](https://soundcloud.com/choka_kuma/potsu-just-friends)
 - [Dream Sequence - Kendall Miles x I eat Plants for a living](https://soundcloud.com/kendallmilesmusic/dream-sequence-kendall-miles-x-i-eat-plants-for-a-living)
 - [beachside - E66S](https://soundcloud.com/e66s/beachside)
+- [Crush on You - Elijah Who](https://soundcloud.com/o-nei-ric-tapes/1-crush-on-you-elijah-who)
 
 ## Playlists
 
