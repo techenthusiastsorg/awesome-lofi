@@ -18,6 +18,7 @@ We are looking for a player that will subscribe to a Slack channel and post auto
 - [Erica Banzuelo (Cover) Build Me Up Buttercup (Gelo Lofi Remix)](https://soundcloud.com/djgeloremixofficial/erica-banzuelo-cover-build-me-up-buttercup-gelo-lofi-remix)
 - [Potsu - Just Friends](https://soundcloud.com/choka_kuma/potsu-just-friends)
 - [Dream Sequence - Kendall Miles x I eat Plants for a living](https://soundcloud.com/kendallmilesmusic/dream-sequence-kendall-miles-x-i-eat-plants-for-a-living)
+- [beachside - E66S](https://soundcloud.com/e66s/beachside)
 
 ## Playlists
 
