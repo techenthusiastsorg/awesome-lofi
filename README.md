@@ -24,6 +24,7 @@ We are looking for a player that will subscribe to a Slack channel and post auto
 ## Lofi Love
 
 - [Coffee on the Beach - halberd](https://soundcloud.com/lilpolearm/coffee-on-the-beach)
+- [The Girl I haven't Met - kudasai](https://soundcloud.com/kudasaibeats/the-girl-i-havent-met)
 
 ## Playlists
 
